@@ -3,6 +3,9 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
+#不排除.gitignore
+!.gitignore
+
 # Python:
 *.py[cod]
 *.so
